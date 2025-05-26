@@ -6,8 +6,8 @@ Este projeto consiste em um aplicativo React Native (desenvolvido com Expo) que 
 
 Para uma melhor organização, recomenda-se separar o frontend e o backend em pastas distintas dentro do seu repositório:
 
-*   **`/PokemonApp`** (ou nome similar): Contém o código-fonte do aplicativo React Native (frontend) desenvolvido com Expo.
-*   **`/pokemon_api`** (ou nome similar): Contém o código-fonte da API Node.js (backend) desenvolvida com Express.
+*   **`/PokemonApp`** : Contém o código-fonte do aplicativo React Native (frontend) desenvolvido com Expo.
+*   **`/pokemon_api`** : Contém o código-fonte da API Node.js (backend) desenvolvida com Express.
 
 ## Funcionalidades
 
